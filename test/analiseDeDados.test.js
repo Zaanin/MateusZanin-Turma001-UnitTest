@@ -321,7 +321,7 @@ describe("Classe Analise - Método calcularCoeficienteVariacao", () => {
   });
 
 });
-describe("Classe Analise - Método calcularCorrelacao", () => {
+describe("Classe Analise - Método calcularCorrelacao ", () => {
   let analise;
 
   beforeEach(() => {
